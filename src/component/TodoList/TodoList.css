@@ -1,0 +1,9 @@
+ul > li {
+    border: 1px solid crimson;
+    padding: 10px;
+    margin: 10px;
+}
+
+li > button{
+    margin-left: 2rem;
+}
