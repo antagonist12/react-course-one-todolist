@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-course-one-todolist/static/css/main.8da699ef.css",
+    "main.js": "/react-course-one-todolist/static/js/main.abf6bc1b.js",
+    "static/js/787.c51577e3.chunk.js": "/react-course-one-todolist/static/js/787.c51577e3.chunk.js",
+    "index.html": "/react-course-one-todolist/index.html",
+    "main.8da699ef.css.map": "/react-course-one-todolist/static/css/main.8da699ef.css.map",
+    "main.abf6bc1b.js.map": "/react-course-one-todolist/static/js/main.abf6bc1b.js.map",
+    "787.c51577e3.chunk.js.map": "/react-course-one-todolist/static/js/787.c51577e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8da699ef.css",
+    "static/js/main.abf6bc1b.js"
+  ]
+}
